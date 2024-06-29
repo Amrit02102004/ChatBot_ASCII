@@ -1,1 +1,1 @@
-web: python ChatBot/manage.py runserver 0.0.0.0:18497
+web: python ChatBot/manage.py runserver 0.0.0.0:6173
