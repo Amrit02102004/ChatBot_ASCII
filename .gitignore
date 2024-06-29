@@ -3,7 +3,7 @@
 *.pyc
 __pycache__/
 *.pyo
-*.pyd
+*.pyd 
 
 venv/
 
